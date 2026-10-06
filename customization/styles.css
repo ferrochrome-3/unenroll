@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400;500;700&display=swap');
+
+:root {
+  --base: #191724;
+  --surface: #1f1d2e;
+  --overlay: #26233a;
+  --muted: #6e6a86;
+  --subtle: #908caa;
+  --text: #e0def4;
+  --love: #eb6f92;
+  --gold: #f6c177;
+  --rose: #ebbcba;
+  --pine: #31748f;
+  --foam: #9ccfd8;
+  --iris: #c4a7e7;
+  --highlightlow: #21202e;
+  --highlightmed: #403d52;
+  --highlighthigh: #524f67;
+}
+
+body {
+  background-color: var(--base);
+  color: var(--text);
+  font-family: 'Google Sans Flex', -apple-system, BlinkMacSystemFont, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+.input-field {
+  background-color: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--highlightmed);
+  padding: 8px 12px;
+  border-radius: 4px;
+  outline: none;
+  font-family: inherit;
+}
+
+.input-field:focus {
+  border-color: var(--highlighthigh);
+}
+
+.input-field::placeholder {
+  color: var(--muted);
+}
+
+.buttonprimary {
+  background-color: var(--overlay);
+  color: var(--text);
+  border: 1px solid var(--highlightmed);
+  padding: 8px 14px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.buttonprimary:hover {
+  background-color: var(--highlightmed);
+  color: var(--text);
+}
+
+.form-group {
+  margin-bottom: 8px;
+}
+
+#response {
+  margin-top: 12px;
+  color: var(--text);
+  font-weight: 500;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+#credits {
+  font-style: italic;
+  color: var(--subtle);
+  margin-top: 12px;
+  font-size: 14px;
+}
+
+.card {
+  background-color: var(--surface);
+  border-radius: 12px;
+  padding: 16px;
+  border: 1px solid var(--highlightmed);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;             
+  max-width: 100%;         
+  box-sizing: border-box;  
+}
+
+.cardempty {
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  font-weight: 500;
+  color: var(--subtle);
+  min-height: 100px;
+}
+
+.cardtitle {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.carddesc {
+  color: var(--subtle);
+  font-size: 15px;
+}
+
+.cardfooter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  row-gap: 6px;
+  column-gap: 8px;
+  font-size: 14px;
+  color: var(--text);
+}
+
+.cardfooter span {
+  white-space: nowrap;
+}
+
+.cardfooter a,
+.cardfooter a:link,
+.cardfooter a:visited {
+  color: var(--subtle) !important;
+  text-decoration: underline;
+  transition: color 0.5s ease;
+  white-space: nowrap;
+}
+
+.cardfooter a:hover,
+.cardfooter a:active {
+  color: var(--text) !important;
+}
+
+.separator {
+  color: var(--subtle);
+  user-select: none;
+}

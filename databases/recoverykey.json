@@ -1,0 +1,525 @@
+{
+  "ambassador": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "0190cc96280c695dfbbc077f4dc7485becd7d3d1"
+  },
+  "arkham": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "8ec803e459541912ab0fe6fd4ee91698c4895e8f"
+  },
+  "asuka": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "734fa500ccf648adebc87b059c607160dab2b00d"
+  },
+  "asurada": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "4fbc7d38b4af7a4f8de32ce99dbf43fd374d71f0"
+  },
+  "atlas": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "40069e19870d32e345829a9cf9f7439013cabd18"
+  },
+  "auron-paine": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "78a49ef94f30305fd70f61c518813d58c9f85326"
+  },
+  "auron-yuna": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "d3c9ef48dfca55be4fd945d65748dbb5d3108d39"
+  },
+  "banjo": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "2635b5aa2925af76ccad81cd1684a6cac3b5c6f8"
+  },
+  "banon": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "f0f297d9be0be742362cdf2accbde32929d403da"
+  },
+  "bob": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "d0d086d00ec53c00bf0f2a6339edd67dec153e90"
+  },
+  "brask": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "1d179df8c73ceafaf23dc2eba81d8057fb867c10"
+  },
+  "brox": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "8c2367f697e733d48de10d47ac1f5d0d9b17dae2"
+  },
+  "brya": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "e3c39daf95da1940936aa29eef2d101eb09905c0"
+  },
+  "buddy": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "753fba9ea3d01ae3b16bcadc686b80b72b2f2124"
+  },
+  "butterfly": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "b3373d76358c3528d0653c4035bdd0020e2b0e1b"
+  },
+  "candy": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "4ace093afd4ea90fe7318c7e2499f3f073f85c2b"
+  },
+  "caroline": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "474b17821c49ef5037283e3d00444179b2b1065e"
+  },
+  "cave": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "467576c0bae58831390ffb53ccd82d9914a9ca2b"
+  },
+  "celes": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "d9d5204e5a3e5de537b01371a8d5b33b959e5a13"
+  },
+  "chell": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "51af43d15d30e5b43881848d259f806582a09955"
+  },
+  "cherry": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "d5284bfff8e652cc060ef4acb43cea51c278de65"
+  },
+  "clapper": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "b6079520f8c8dc7192a78d111b9fefb98cee49b3"
+  },
+  "constitution": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "75469c28f63109f6fc69826cdf69f890da0864ff"
+  },
+  "coral": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "2c8bdfdb725101a117d043a6a4e3c858223e78ec"
+  },
+  "corsola": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "keyrolled": "6f5d3febead682b6ae4157c8580ff34ef66c2964",
+    "unkeyrolled": "b60be0c925871a3603bc6d3f2f0a21c4231fe83f"
+  },
+  "cyan": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "224132bc22189cbd41a5793a0fca393326723c0c"
+  },
+  "daisy": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "13b0ddf343bb0c325b178e5be138d4969a9e02be"
+  },
+  "daisy-skate": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "5e9d23b2d908a6ac5ee5c9747a9e2fe6dff01372"
+  },
+  "daisy-spring": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "540bb135df55fe0036fe061b7a1f2a52d287cd1b"
+  },
+  "dedede": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "keyrolled": "37018060a9234607239c05e99edfdce9f5ff5439",
+    "unkeyrolled": "0839ba3e040eb2f8c9d3d19ee293b735f4c92851"
+  },
+  "drallion": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "ae43398a321c3e54a128b31f94da83a416e6c970"
+  },
+  "edgar": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "0529190cd8b571b6e578ba2973e890ad58020804"
+  },
+  "elm": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "dc9395577fb92b37bc0004a9bb42a82a42ad655c"
+  },
+  "endeavour": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "05c5b9b8e48445735580d8efa5a9ca4f2758e715"
+  },
+  "enguarde": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "ae67678f8ed662ef4d1e4a639226d278b90ccaa3"
+  },
+  "eve": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "2783e4b70d07a1d084ba2e9a2e441994cc9bb9f0"
+  },
+  "excelsior": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "7c168d63e2e83d72b0376cc09fc69afe2f96493f"
+  },
+  "expresso": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "ff7c07ae0ac04ccb92090e339545b716228a6da4"
+  },
+  "falco-li": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "3c359d59432641a151161e2738ba8ca2b3eb12ab"
+  },
+  "fizz": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "2d719717f6278af1757e753fcfe82dd692810551"
+  },
+  "gale": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "ef6ec35bae42009176417e6b620f56bc1f4b7703"
+  },
+  "gandof": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "bf0c3210e81cc61e31d56cc002267f8024dcdc59"
+  },
+  "geralt": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "0c8e55506679bb8abdcb47d3cfbe6506de8a66ff"
+  },
+  "glimmer": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "c989d1ab66d2a67886e1019330812cb9e4e48f31"
+  },
+  "gnawty": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "ab325d5411c6a21b41142b71b747335144e12538"
+  },
+  "grunt": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "0a782491c97ef9d959bb01f46a2d297e6f9b1e26"
+  },
+  "guado": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "1157817d373e340bbe2fef437d06530072e37687"
+  },
+  "guybrush": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "0a96ba3d13a6ebd7a0ecee0576e4383a13a3a187"
+  },
+  "hana": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "0b87db158d329b158b58d948a1345a4fb05fc998"
+  },
+  "hatch": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "1a45ec5c3c0448f638aad4bfb339c965b02f7e34"
+  },
+  "heli": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "862ff51477fddc609e49d94d2641a724fa917bbd"
+  },
+  "jacuzzi": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "33bd891576b98c9dc181f12ffc7c79ae8f570096"
+  },
+  "kalista": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "2a6579a257f3d57035581f0b0f0490a589105fe0"
+  },
+  "kefka": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "f2e3243dcb1acedfd4f847e791b79c5e0b71804e"
+  },
+  "kevin": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "f7300aa684f1bb5b212b0e0ce56c7bc3160fc818"
+  },
+  "kip": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "6eaa4b094cd75eacc0f2fa4516d33ed86ea6f3d2"
+  },
+  "kukui": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "025c910f076097b27c2f7cbb92bf40127c32392b"
+  },
+  "lars": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "0cf17a8ec89b783393b6173abac3ffd0944befab"
+  },
+  "leon": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "dc65a88c92511494999d2c03a72ec2584d21917d"
+  },
+  "link": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "7e74cd6d66f361da068c0419d2e0946b4d091e1c"
+  },
+  "lulu": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "b367c958219d1bd21b783bf7c0d1d1169114bef5"
+  },
+  "lumpy": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "0d800afb53cdd05dd849addee0143ca1d96e893c"
+  },
+  "mccloud": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "51dd0b446540182fd91c6196b9a8dfcd7bcf6256"
+  },
+  "monroe": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "67f01715f3acf6526ce48a3d2cf81b003a01f334"
+  },
+  "nami": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "7285e9db60f3b90ff3e14b7a2c17826646b1f995"
+  },
+  "nautilus": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "1c2d8555b961123b7d12c0edae2c34defedb6b46"
+  },
+  "ninja": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "0cdf3986d27b375c507311fa4acde2ef274616d0"
+  },
+  "nissa": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "keyrolled": "10a46dba75ef67320422fe73148feb321d723cde",
+    "unkeyrolled": "7f275e9b2a841aae9a8f2f9f747568d6811ef873"
+  },
+  "nocturne": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "ff71381ae19cd455383e94cef94800584fd119c7"
+  },
+  "nyan-big": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "2b356618cd0f739877b7a3f155917341f8778523"
+  },
+  "nyan-blaze": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "26900310befce802836cca982f819aa72445e190"
+  },
+  "nyan-kitty": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "e02c83f106bd725a276990efd547dfacf8e0424b"
+  },
+  "octopus": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "73548eec796f801be5d62992ac07efc1155779fc"
+  },
+  "orco": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "a31caef8168b0c5c2044ac1509e9c7099adc824b"
+  },
+  "ovis": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "34fd81ce6160c68af04b2a966224ec3847cb4042"
+  },
+  "panther": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "e74e63e14b285700324ffd3acc4b776dc3104b8f"
+  },
+  "parrot-ivb": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "7f03c648d2bb4ab3979cb87633da51ed90267f03"
+  },
+  "peach-pi": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "d254b3b3ddaac32f7b843753de9257ec4f6c67ed"
+  },
+  "peach-pit": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "6d9a2ca8b3080a97e1e5a4efbc5386ead77c3c7f"
+  },
+  "peppy": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "bf39d0d3e30cbf6a121416d04df4603ad5310779"
+  },
+  "puff": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "691960d7ca520561f2d8f4870c2a12cf96984cf4"
+  },
+  "pyro": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "47a79f44c240f39074849974b438fd8acd343130"
+  },
+  "quawks": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "60aa1bbbea1d2f724c6e5daa0653ca472ac3085e"
+  },
+  "rammus": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "04114e2d9c0c2d56b9d78614c9de430114ccf5a1"
+  },
+  "rauru": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "95cb0cf50bc56c978911ff5cbfda056bac3f928f"
+  },
+  "reef": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "6dcd7f2855597d15a2e44db14958a9ea8fdc6e14"
+  },
+  "reks": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "e548b6ca7cf6a0d76f3fba9c2d565e8ef5d34349"
+  },
+  "relm": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "f0f0c627f66202b5658e48b2084a2188791425bc"
+  },
+  "rex": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "70cd2884f7bc7df3675b5a62bc88087fa2800858"
+  },
+  "rikku": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "5678f3d10273fc91b21fc98b5407491bb3b7bf2b"
+  },
+  "samus": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "902c24de0a673d5e15567d676474fcca009aa298"
+  },
+  "sand": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "f675a6bc39c5b8426bb74d5f8c4f3ccac3a29dd9"
+  },
+  "sarien": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "8562d8844fe02f9e5493c8e63c9290240b45da2d"
+  },
+  "scarlet": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "31ef74ad20e25ec06530723c4bd3bdf045fe2392"
+  },
+  "sentry": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "1ab2adeeb2522f60722d72893c85e6427a7a885d"
+  },
+  "setzer": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "60740063611474a1105b2326d06890052e215c8e"
+  },
+  "skyrim": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "f9075b8c4197daf1839051b778582b3211181ea3"
+  },
+  "skywalker": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "25848abcfbf60ba03d4860a395d370224fc99652"
+  },
+  "snappy": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "07e52a53cc24e98a21c80d13fe8556e380ff8a31"
+  },
+  "soraka": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "1621ccab254a627dcee227e31ccc79db7a9cad6a"
+  },
+  "squawks": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "cdc2858ca78351dc4b54d5d5d02bc695830f7802"
+  },
+  "staryu": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "3a3fae4dac2b04e9e24a41a015d125c059809ab8"
+  },
+  "stout": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "5cb31faf8c524672a15fd4628c585af79eca0247"
+  },
+  "strongbad": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "378763dd44ced8ac7ed22497fb5828cb7cff14d8"
+  },
+  "stumpy": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "37e7bad73449f782f280b1668fed48d1132137fa"
+  },
+  "sumo": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "dd2d75887597fe7410a5043a265bdb6b4cf2cb23"
+  },
+  "swanky": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "e0b610bc85908c35fb7bd11bfd34afb84d547190"
+  },
+  "terra": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "87980894385003eae3ca4450bd3790bdbec5caf9"
+  },
+  "tidus": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "c2facae7921d6b89698169e7995f0f500eed6f73"
+  },
+  "tricky": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "50759cb8bc2f86ef378571fa7b30a161e7dcdc03"
+  },
+  "trogdor": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "af3bb31cd62ab0c8b4a435f60e4e8765c1c4bf39"
+  },
+  "ultima": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "88f38a81f54f3bb9f1259746592c604a241a7293"
+  },
+  "veyron-fievel": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "7234133a4f75d339e0dce8f747ed53b71a110f92"
+  },
+  "veyron-jaq": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "4d40633a4657aee268fa0670edd2e934f56cde5f"
+  },
+  "veyron-jerry": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "ad21c563fb517d82ca5c2e9e43d85cbca8540faf"
+  },
+  "veyron-mickey": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "75ffb97a84c767eb77f0db159177d2d7980603a0"
+  },
+  "veyron-mighty": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "388cdc338f79c7f8f1ba502dbb978843036abab6"
+  },
+  "veyron-minnie": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "44ec8f7f45249a9f21bff0845b5a01ffc29f144a"
+  },
+  "veyron-speedy": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "f5d635d26e3a9bd2ce876d57cca9b14598403b24"
+  },
+  "veyron-tiger": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "8fec37eaaf95f973a4d39b069299c204b8a775d7"
+  },
+  "volteer": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "f2141ccb50eec334004f818ceb2821c9c0fb292d"
+  },
+  "whirlwind": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "eff348e623f0265d44cbe0eb8c8e11e46f545d43"
+  },
+  "winky": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "b5e75bc83df78eb87c9d8e831deeafeb9813bcc0"
+  },
+  "wizpig": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "1d5e8d516ff5d2e9f3e043b5b6dc6fc79fd7e6a7"
+  },
+  "wolf": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "a4ee431f7a07c59e920fe570ead0b938cdd4019d"
+  },
+  "x86-alex-he": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "5c5776bf7574e5601c25042e0748b6844cfdd1dc"
+  },
+  "x86-mario": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "5d0d163b824cab5ae4f23fb2cc012e2a4124f4fe"
+  },
+  "x86-zgb-he": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "9bd99a594c45b6739899a17ec29ac2289ee75463"
+  },
+  "zako": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "ba07696c1c82891fdacab28a434148d239e7c834"
+  },
+  "zork": {
+    "devkeys": "c14bd720b70d97394257e3e826bd8f43de48d4ed",
+    "unkeyrolled": "3ce08217ad7101658fb36634d74963fdba6e0fdc"
+  }
+}

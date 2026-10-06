@@ -1,0 +1,21 @@
+{
+  "quicksilver": {
+    "kernver": "4,5,6",
+    "link": "https://docs.titaniumnetwork.org/kajigs/quicksilver/",
+    "boards": "all",
+    "description": "Unenrollment with re_enrollment_key in vpd. Use sh1ttyexec+badsh1mmer if keyrolled, sh1mmer if unkeyrolled",
+    "name": "Quicksilver",
+    "keyrolled": "yes",
+    "developer": "crossystem/emerwyi"
+  },
+
+   "br0ker": {
+    "kernver": "1,2,3,4,5",
+    "link": "https://docs.titaniumnetwork.org/kajigs/br0ker/",
+    "boards": "all",
+    "description": "Unenrollment via unused dev_mode_unblock_broker. Use sh1ttyoobe+badsh1mmer if keyrolled, sh1mmer if unkeyrolled",
+    "name": "Br0ker",
+    "keyrolled": "yes",
+    "developer": "OlyB"
+  }
+}
